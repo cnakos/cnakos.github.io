@@ -1,6 +1,6 @@
 ## Constantine Nakos
 
-I am a PhD candidate at Northwestern University.  My advisor is [Ken Forbus](https://www.qrg.northwestern.edu/).  My main area of research is Natural Language Processing, including Understanding and Generation.  Specifically, I am working on Interactive Natural Language Debugging, a method for hand-curated natural language systems to debug themselves by asking a user questions.  I have also done work on reference resolution, and I help maintain QRG's question-answering Kiosk.
+I am a PhD candidate at Northwestern University.  My advisor is [Ken Forbus](https://www.qrg.northwestern.edu/).  My research aims to make Natural Language systems easier to debug by having the system ask the user diagnostic questions in natural language.  Through a series of such questions, the system will be able to locate the error in its linguistic knowledge and correct it, allowing non-expert users to help improve the system's understanding.  I have also done research on cognitively plausible models of reference resolution, and I help maintain the Qualitative Reasoning Group's information kiosk.
 
 ### Publications
 
