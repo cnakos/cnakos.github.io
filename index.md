@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Constantine Nakos
 
-You can use the [editor on GitHub](https://github.com/cnakos/cnakos.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am a PhD candidate at Northwestern University.  My advisor is [Ken Forbus](https://www.qrg.northwestern.edu/).  My main area of research is Natural Language Processing, including Understanding and Generation.  Specifically, I am working on Interactive Natural Language Debugging, a method for hand-curated natural language systems to debug themselves by asking a user questions.  I have also done work on reference resolution, and I help maintain QRG's question-answering Kiosk.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Publications
 
-### Markdown
+Crouse, M., Nakos, C., Abdelaziz, I. & Forbus, K. (2021). Neural Analogical matching. *Proceedings of AAAI 2021*.
+Nakos, C., Rabkina, I., Hill, S., & Forbus, K. (2020) Corrective Processes in Modeling Reference Resolution. In *Proceedings of CogSci 2020*, Online.
+Rabkina, I., Nakos, C., & Forbus, K. D. (2019). Children's Sentential Complement Use Leads the Theory of Mind Development Period: Evidence from the CHILDES Corpus. In *Proceedings of the 41st Annual Conference of the Cognitive Science Society*. Montreal, Canada.
+Rabkina,I., Nakos, C., & Forbus, K. D. (2019). Anticipatory Thinking in Multi-Agent Environments: The Role of Theory of Mind. In *Proceedings of the AAAI Fall Symposium on Cognitive Systems for Anticipatory Thinking*. Arlington, VA.
+Wilson, J., Chen, K., Crouse, M., C. Nakos, C., Ribeiro, D., Rabkina, I., Forbus, K. D. (2019). Analogical Question Answering in a Multimodal Information Kiosk. In *Proceedings of the Seventh Annual Conference on Advances in Cognitive Systems*. Cambridge, MA.
+Malik, M., Lamba, H., Nakos, C., & Pfeffer, J. (2015). Population bias in geotagged tweets. In *Proceedings of the International AAAI Conference on Web and Social Media* (Vol. 9, No. 4, pp. 18-27).
+Lamba, H., Malik, M. M., Nakos, C., & Pfeffer, J. (2015). Rich people don’t have more followers! Overcoming social inequality with social media.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Preprints
 
-```markdown
-Syntax highlighted code block
+Crouse, M., Fokoue, A., Chang, M., Kapanipathi, P., Musa, R., Nakos, C., ... & Witbrock, M. (2019). High-Fidelity Vector Space Models of Structured Data. arXiv preprint arXiv:1901.02565.
 
-# Header 1
-## Header 2
-### Header 3
+### Education
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cnakos/cnakos.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- 2016-Present: Northwestern University, Doctorate in Computer Science
+- 2014-2016: Carnegie Mellon University, Master's in Language Technologies
+- 2010-2014: Princeton University, AB in Computer Science, Certificate in Linguistics
