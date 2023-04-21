@@ -5,11 +5,17 @@ I am a PhD candidate at Northwestern University.  My advisor is [Ken Forbus](htt
 ### Publications
 
 Crouse, M., Nakos, C., Abdelaziz, I. & Forbus, K. (2021). Neural Analogical matching. *Proceedings of AAAI 2021*.
+
 Nakos, C., Rabkina, I., Hill, S., & Forbus, K. (2020) Corrective Processes in Modeling Reference Resolution. In *Proceedings of CogSci 2020*, Online.
+
 Rabkina, I., Nakos, C., & Forbus, K. D. (2019). Children's Sentential Complement Use Leads the Theory of Mind Development Period: Evidence from the CHILDES Corpus. In *Proceedings of the 41st Annual Conference of the Cognitive Science Society*. Montreal, Canada.
+
 Rabkina,I., Nakos, C., & Forbus, K. D. (2019). Anticipatory Thinking in Multi-Agent Environments: The Role of Theory of Mind. In *Proceedings of the AAAI Fall Symposium on Cognitive Systems for Anticipatory Thinking*. Arlington, VA.
+
 Wilson, J., Chen, K., Crouse, M., C. Nakos, C., Ribeiro, D., Rabkina, I., Forbus, K. D. (2019). Analogical Question Answering in a Multimodal Information Kiosk. In *Proceedings of the Seventh Annual Conference on Advances in Cognitive Systems*. Cambridge, MA.
+
 Malik, M., Lamba, H., Nakos, C., & Pfeffer, J. (2015). Population bias in geotagged tweets. In *Proceedings of the International AAAI Conference on Web and Social Media* (Vol. 9, No. 4, pp. 18-27).
+
 Lamba, H., Malik, M. M., Nakos, C., & Pfeffer, J. (2015). Rich people don’t have more followers! Overcoming social inequality with social media.
 
 #### Preprints
