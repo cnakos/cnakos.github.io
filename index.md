@@ -4,9 +4,13 @@ I am a PhD candidate at Northwestern University.  My advisor is [Ken Forbus](htt
 
 ### Publications
 
-Crouse, M., Nakos, C., Abdelaziz, I. & Forbus, K. (2021). Neural Analogical matching. *Proceedings of AAAI 2021*.
+Nakos, C., Kuthalam, M., & Forbus, K. D. (2022). A Framework for Interactive Natural Language Debugging. In *Proceedings of the Tenth Annual Conference on Advances in Cognitive Systems*. Arlington, Virginia.
 
-Nakos, C., Rabkina, I., Hill, S., & Forbus, K. (2020) Corrective Processes in Modeling Reference Resolution. In *Proceedings of CogSci 2020*, Online.
+Crouse, M., Nakos, C., Abdelaziz, I. & Forbus, K. (2021). Neural Analogical Matching. *Proceedings of AAAI 2021*.
+
+Nakos, C., Rabkina, I., Hill, S., & Forbus, K. (2020). Corrective Processes in Modeling Reference Resolution. In *Proceedings of CogSci 2020*, Online.
+
+Nakos, C., Rabkina, I., & Forbus, K. D. (2020). An Analogical Account of Reference Resolution. *Advances in Cognitive Systems* (Vol. 9).
 
 Rabkina, I., Nakos, C., & Forbus, K. D. (2019). Children's Sentential Complement Use Leads the Theory of Mind Development Period: Evidence from the CHILDES Corpus. In *Proceedings of the 41st Annual Conference of the Cognitive Science Society*. Montreal, Canada.
 
